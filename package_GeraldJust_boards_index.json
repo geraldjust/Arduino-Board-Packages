@@ -18,7 +18,27 @@
           "name": "GeraldJust CANBUS Boards",
           "architecture": "avr",
           "version": "1.0",
-          "category": "GeraldJust",
+          "category": "Contributed",
+          "help": {
+            "online": "https://github.com/geraldjust/Arduino-Board-Packages"
+          },
+          "url": "https://github.com/Atlantis-Specialist-Technologies/Arduino-Boards-Packages/raw/master/Packages/ast-0.0.1.zip",
+          "archiveFileName": "ast-0.0.1.zip",
+          "checksum": "SHA-256:3359dd6c30f8afd87bf10e2ce69028edddca6d621a279c7cf56e0c0d87a19d7b",
+          "size": "60845",
+          "boards": [
+            {"name": "CANIO"}
+          ],
+          "toolsDependencies": []
+        }
+        
+        ,
+        
+                {
+          "name": "GeraldJust CANBUS Boards2",
+          "architecture": "avr",
+          "version": "1.0",
+          "category": "Contributed",
           "help": {
             "online": "https://github.com/geraldjust/Arduino-Board-Packages"
           },
@@ -33,42 +53,7 @@
         }
         
         
-        ,
-        
-        
-        {
-          "name": "ATmegaxxM1-C1",
-          "architecture": "avr",
-          "version": "1.0.7",
-          "category": "Contributed",
-          "help": {
-            "online": ""
-          },
-          "url": "https://github.com/thomasonw/ATmegaxxM1-C1/raw/gh-pages/ATmegaxxM1-C1-1.0.7.tar.gz",
-          "archiveFileName": "ATmegaxxM1-C1-1.0.7.tar.gz",
-          "checksum": "SHA-256:F0386A2D4E0C1F03CF4FAFB841ED0F6BB379632863438F083414FA76DD59B7FA",
-          "size": "103629",
-          "boards": [
-            {"name": "ATmega32M1"},
-            {"name": "ATmega64M1"}
-          ],
-          "toolsDependencies": [
-            {
-              "packager": "arduino",
-              "name": "avr-gcc",
-              "version": "4.8.1-arduino5"
-            },
-            {
-              "packager": "arduino",
-              "name": "avrdude",
-              "version": "6.0.1-arduino5"
-            }
-          ]
-        }
-        
-        
-        
-        
+       
         
       ],
       "tools":[]
