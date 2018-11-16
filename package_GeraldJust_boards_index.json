@@ -24,8 +24,8 @@
           },
           "url": "https://github.com/geraldjust/Arduino-Board-Packages/raw/master/CANIO-1.0.zip",
           "archiveFileName": "CANIO-1.0.zip",
-          "checksum": "SHA-256:D383205D1BF5B301A04353E039A70D2235BC5055BEEADE7742614BCDA8E01336",
-          "size": "64025",
+          "checksum": "SHA-256:6FF8625231C13CB32D827F419B3ECFF73FA55AB16F78E8D9C41366EE7A3A1634",
+          "size": "116962",
           "boards": [
             {"name": "CANIO"}
           ],
