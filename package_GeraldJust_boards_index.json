@@ -15,37 +15,17 @@
         
         
         {
-          "name": "GeraldJust CANBUS Boards",
+          "name": "CANIO",
           "architecture": "avr",
           "version": "1.0",
           "category": "Contributed",
           "help": {
             "online": "https://github.com/geraldjust/Arduino-Board-Packages"
           },
-          "url": "https://github.com/Atlantis-Specialist-Technologies/Arduino-Boards-Packages/raw/master/Packages/ast-0.0.1.zip",
+          "url": "https://github.com/geraldjust/Arduino-Board-Packages/raw/master/CANIO-1.0.zip",
           "archiveFileName": "ast-0.0.1.zip",
-          "checksum": "SHA-256:3359dd6c30f8afd87bf10e2ce69028edddca6d621a279c7cf56e0c0d87a19d7b",
-          "size": "60845",
-          "boards": [
-            {"name": "CANIO"}
-          ],
-          "toolsDependencies": []
-        }
-        
-        ,
-        
-                {
-          "name": "GeraldJust CANBUS Boards2",
-          "architecture": "avr",
-          "version": "1.0",
-          "category": "Contributed",
-          "help": {
-            "online": "https://github.com/geraldjust/Arduino-Board-Packages"
-          },
-          "url": "https://github.com/Atlantis-Specialist-Technologies/Arduino-Boards-Packages/raw/master/Packages/ast-0.0.1.zip",
-          "archiveFileName": "ast-0.0.1.zip",
-          "checksum": "SHA-256:3359dd6c30f8afd87bf10e2ce69028edddca6d621a279c7cf56e0c0d87a19d7b",
-          "size": "60845",
+          "checksum": "SHA-256:d38525dedae6b993f607cadbeff7fcc6bb44ea47e62df2d131c4bc2395d2c969",
+          "size": "4050953",
           "boards": [
             {"name": "CANIO"}
           ],
