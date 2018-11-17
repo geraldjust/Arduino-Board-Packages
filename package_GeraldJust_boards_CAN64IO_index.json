@@ -21,12 +21,12 @@
         {
           "name": "CAN64 IO Board",
           "architecture": "avr",
-          "version": "1.0.8",
+          "version": "1.0",
           "category": "Contributed",
-          "url": "https://github.com/geraldjust/ATmegaxxM1-C1/archive/v1.0.7.2.zip",
-          "archiveFileName": "v1.0.7.2.zip",
-          "checksum": "SHA-256:0DCE2C260D340950672DD8253694C3411B660746FFC994018945DEBF0E39C777",
-          "size": "342739",
+          "url": "https://github.com/geraldjust/Arduino-Board-Packages/raw/master/CAN64IO-1.0.zip",
+          "archiveFileName": "CAN64IO-1.0.zip",
+          "checksum": "SHA-256:E3289818F7B703A564C51D414CB35F7CB3DDD8972150C6126D1113D204894781",
+          "size": "164886",
           "help": {
             "online": "https://github.com/geraldjust/Arduino-Board-Packages"
           },
