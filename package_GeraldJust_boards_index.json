@@ -55,7 +55,7 @@
         
         ,
         {
-          "name": "SparkFun SAMD Boards  (dependency: Arduino SAMD Boards 1.6.19)",
+          "name": "CAN64 IO Board",
           "architecture": "samd",
           "version": "1.5.2",
           "category": "Contributed",
