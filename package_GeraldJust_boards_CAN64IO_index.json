@@ -1,0 +1,45 @@
+{
+  "packages": [
+    {
+      "name": "GeraldJust",
+      "maintainer": "Gerald Just Projects and Solutions",
+      "websiteURL": "http://www.geraldjustprojects.com/",
+      "email": "Gerald@geraldjustProjects.com",
+      "help": {
+        "online": "https://github.com/geraldjust/Arduino-Board-Packages"
+      },
+      
+      
+      
+      "platforms": [
+        
+        
+       
+        
+        {
+          "name": "CAN64 IO Board",
+          "architecture": "avr",
+          "version": "1.0.7.2",
+          "category": "Contributed",
+          "url": "https://github.com/geraldjust/ATmegaxxM1-C1/archive/v1.0.7.2.zip",
+          "archiveFileName": "v1.0.7.2.zip",
+          "checksum": "SHA-256:0DCE2C260D340950672DD8253694C3411B660746FFC994018945DEBF0E39C777",
+          "size": "342739",
+          "help": {
+            "online": "https://github.com/geraldjust/Arduino-Board-Packages"
+          },
+          "boards": [
+            {"name": "CAN64 IO Board"}
+          ],
+          "toolsDependencies": []
+        }
+        
+
+        
+       
+        
+      ],
+      "tools":[]
+    }
+  ]
+}
