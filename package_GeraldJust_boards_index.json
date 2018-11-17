@@ -15,17 +15,17 @@
         
         
         {
-          "name": "CANIO",
+          "name": "CAN90 IO",
           "architecture": "avr",
           "version": "1.0",
           "category": "Contributed",
           "help": {
             "online": "https://github.com/geraldjust/Arduino-Board-Packages"
           },
-          "url": "https://github.com/geraldjust/Arduino-Board-Packages/raw/master/CANIO-1.0.0.zip",
-          "archiveFileName": "CANIO-1.0.0.zip",
-          "checksum": "SHA-256:60D086545322A49AC02D3A3D2D1554A7566C56500DE105B20BEA1F4DDE4F6F1C",
-          "size": "60848",
+          "url": "https://github.com/geraldjust/CAN90-IO/archive/V1.0.zip",
+          "archiveFileName": "V1.0.zip",
+          "checksum": "SHA-256:49B38FA3B7273ECFCA5346418D2AA7371B016C701A83E39357CC052424A896AD",
+          "size": "54394",
           "boards": [
             {"name": "CANIO"}
           ],
