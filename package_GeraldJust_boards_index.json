@@ -31,65 +31,8 @@
           ],
           "toolsDependencies": []
         }
-        
-        ,
-        
-        
-        {
-          "name": "CAN64 IO Board",
-          "architecture": "avr",
-          "version": "1.0.7.2",
-          "category": "Contributed",
-          "url": "https://github.com/geraldjust/ATmegaxxM1-C1/archive/v1.0.7.2.zip",
-          "archiveFileName": "v1.0.7.2.zip",
-          "checksum": "SHA-256:0DCE2C260D340950672DD8253694C3411B660746FFC994018945DEBF0E39C777",
-          "size": "342739",
-          "help": {
-            "online": "https://github.com/geraldjust/Arduino-Board-Packages"
-          },
-          "boards": [
-            {"name": "CAN64 IO Board"}
-          ],
-          "toolsDependencies": []
-        }
-        
-        ,
-        {
-          "name": "CAN64 IO Board",
-          "architecture": "samd",
-          "version": "1.5.2",
-          "category": "Contributed",
-          "url": "https://github.com/geraldjust/ATmegaxxM1-C1/archive/v1.0.7.2.zip",
-          "archiveFileName": "v1.0.7.2.zip",
-          "checksum": "SHA-256:0DCE2C260D340950672DD8253694C3411B660746FFC994018945DEBF0E39C777",
-          "size": "342739",
-          "help": {
-            "online": "https://learn.sparkfun.com/tutorials/installing-arduino-ide/board-add-ons-with-arduino-board-manager"
-          },
-          "boards": [
-            {
-              "name": "SparkFun SAMD21 Mini Breakout"
-            },
-            {
-              "name": "SparkFun SAMD21 Dev Breakout"
-            },
-            {
-              "name": "SparkFun 9DoF Razor IMU M0"
-            },
-            {
-              "name": "LilyPad LilyMini"
-            },
-            {
-              "name": "Sparkfun SAMD21 Pro RF"
-            }
-          ],
-          "toolsDependencies": [
-          ]
-        }
-
-        
-        
        
+        
         
       ],
       "tools":[]
