@@ -23,10 +23,10 @@
           "architecture": "avr",
           "version": "1.0",
           "category": "Contributed",
-          "url": "https://github.com/geraldjust/Arduino-Board-Packages/raw/master/CAN64IO-1.0.zip",
-          "archiveFileName": "CAN64IO-1.0.zip",
-          "checksum": "SHA-256:51737DCC560B669864479C2D6CE32A134525876DF91D7F93E89CDB70CFEFBF6F",
-          "size": "166326",
+          "url": "https://github.com/geraldjust/CAN64-IO/archive/V0.1.zip",
+          "archiveFileName": "V0.1.zip",
+          "checksum": "SHA-256:FCE9FC2B5675E3032C398F21C949C458782FEE031B4B4A198178C8B6909E715B",
+          "size": "182309",
           "help": {
             "online": "https://github.com/geraldjust/Arduino-Board-Packages"
           },
