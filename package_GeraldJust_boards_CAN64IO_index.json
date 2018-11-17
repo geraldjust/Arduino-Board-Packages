@@ -18,25 +18,20 @@
         
 
         
-         {
-          "name": "SparkFun SAMD Boards (dependency: Arduino SAMD Boards 1.6.5)",
-          "architecture": "samd",
-          "version": "1.1.0",
+        {
+          "name": "CAN64 IO Board",
+          "architecture": "avr",
+          "version": "1.0.8",
           "category": "Contributed",
-          "url": "https://github.com/sparkfun/Arduino_Boards/raw/master/IDE_Board_Manager/sparkfun-samd-1.1.0.tar.bz2",
-          "archiveFileName": "sparkfun-samd-1.1.0.tar.bz2",
-          "checksum": "SHA-256:5d71cbf8ccf5781eef9809d7b3141041daf3ed1a1272f5278762ece5a0aecf44",
-          "size": "279683",
+          "url": "https://github.com/geraldjust/ATmegaxxM1-C1/archive/v1.0.7.2.zip",
+          "archiveFileName": "v1.0.7.2.zip",
+          "checksum": "SHA-256:0DCE2C260D340950672DD8253694C3411B660746FFC994018945DEBF0E39C777",
+          "size": "342739",
           "help": {
-            "online": "https://learn.sparkfun.com/tutorials/installing-arduino-ide/board-add-ons-with-arduino-board-manager"
+            "online": "https://github.com/geraldjust/Arduino-Board-Packages"
           },
           "boards": [
-            {
-              "name": "SparkFun SAMD21 Mini Breakout"
-            },
-            {
-              "name": "SparkFun SAMD21 Dev Breakout"
-            }
+            {"name": "CAN64 IO Board"}
           ],
           "toolsDependencies": []
         }
