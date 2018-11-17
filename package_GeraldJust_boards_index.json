@@ -22,10 +22,10 @@
           "help": {
             "online": "https://github.com/geraldjust/Arduino-Board-Packages"
           },
-          "url": "https://github.com/geraldjust/Arduino-Board-Packages/raw/master/CANIO-1.0.zip",
-          "archiveFileName": "CANIO-1.0.zip",
-          "checksum": "SHA-256:099974C96AE9DCEB747CFB329CD6715962DB7C90BAA8980AE791C29BC06C1785",
-          "size": "54860",
+          "url": "https://github.com/geraldjust/Arduino-Board-Packages/raw/master/CANIO-1.0.0.zip",
+          "archiveFileName": "CANIO-1.0.0.zip",
+          "checksum": "SHA-256:60D086545322A49AC02D3A3D2D1554A7566C56500DE105B20BEA1F4DDE4F6F1C",
+          "size": "60848",
           "boards": [
             {"name": "CANIO"}
           ],
