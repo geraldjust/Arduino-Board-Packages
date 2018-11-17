@@ -37,7 +37,7 @@
         
         {
           "name": "CAN64 IO Board",
-          "architecture": "avr",
+          "architecture": "other",
           "version": "1.0.7.2",
           "category": "Contributed",
           "url": "https://github.com/geraldjust/ATmegaxxM1-C1/archive/v1.0.7.2.zip",
