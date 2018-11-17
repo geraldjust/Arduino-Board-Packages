@@ -15,7 +15,7 @@
         
         
         {
-          "name": "CAN90 IO",
+          "name": "CAN90 IO Board",
           "architecture": "avr",
           "version": "0.1",
           "category": "Contributed",
@@ -27,31 +27,28 @@
           "checksum": "SHA-256:34CCA5C6AC7C1D7D395DAFF09132FEACCABA9BC3E169F4EEA38F630738559C9D",
           "size": "54612",
           "boards": [
-            {"name": "CANIO"}
+            {"name": "CAN90 IO Board"}
           ],
           "toolsDependencies": []
         }
         
         ,
+        
+        
         {
-          "name": "SparkFun SAMD Boards (dependency: Arduino SAMD Boards 1.6.5)",
-          "architecture": "samd",
-          "version": "1.0.0",
+          "name": "CAN64 IO Board",
+          "architecture": "avr",
+          "version": "1.0.7.2",
           "category": "Contributed",
-          "url": "https://github.com/sparkfun/Arduino_Boards/raw/master/IDE_Board_Manager/sparkfun-samd-1.0.0.tar.bz2",
-          "archiveFileName": "sparkfun-samd-1.0.0.tar.bz2",
-          "checksum": "SHA-256:12e0be6862a3a28b6515755dcad2842757caf4e5270326554f95059512ebaab5",
-          "size": "268954",
+          "url": "https://github.com/geraldjust/ATmegaxxM1-C1/archive/v1.0.7.2.zip",
+          "archiveFileName": "v1.0.7.2.zip",
+          "checksum": "SHA-256:0DCE2C260D340950672DD8253694C3411B660746FFC994018945DEBF0E39C777",
+          "size": "342739",
           "help": {
-            "online": "https://learn.sparkfun.com/tutorials/installing-arduino-ide/board-add-ons-with-arduino-board-manager"
+            "online": "https://github.com/geraldjust/Arduino-Board-Packages"
           },
           "boards": [
-            {
-              "name": "SparkFun SAMD21 Mini Breakout"
-            },
-            {
-              "name": "SparkFun SAMD21 Dev Breakout"
-            }
+            {"name": "CAN64 IO Board"}
           ],
           "toolsDependencies": []
         }
