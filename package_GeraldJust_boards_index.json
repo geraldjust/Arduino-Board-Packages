@@ -15,19 +15,19 @@
         
         
         {
-          "name": "CAN90 IO Board",
+          "name": "CAN90 IO",
           "architecture": "avr",
-          "version": "0.1",
+          "version": "0.0.1",
           "category": "Contributed",
           "help": {
             "online": "https://github.com/geraldjust/Arduino-Board-Packages"
           },
-          "url": "https://github.com/geraldjust/CAN90-IO/archive/V0.1.zip",
-          "archiveFileName": "V0.1.zip",
-          "checksum": "SHA-256:34CCA5C6AC7C1D7D395DAFF09132FEACCABA9BC3E169F4EEA38F630738559C9D",
-          "size": "54612",
+          "url": "https://github.com/geraldjust/CAN90_IO/archive/V0.0.1.zip",
+          "archiveFileName": "V0.0.1.zip",
+          "checksum": "SHA-256:23fb2615043baabb2e3d2bd8beb7c672bd0a24ff77dd5eca36eb587c7af2af05",
+          "size": "54609",
           "boards": [
-            {"name": "CAN90 IO Board"}
+            {"name": "CAN90 IO"}
           ],
           "toolsDependencies": []
         }
