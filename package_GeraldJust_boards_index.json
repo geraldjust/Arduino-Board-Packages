@@ -1,8 +1,8 @@
 {
   "packages": [
     {
-      "name": "GeraldJust 2",
-      "maintainer": "Gerald Just Projects and Solutions 2",
+      "name": "GeraldJust",
+      "maintainer": "Gerald Just Projects and Solutions",
       "websiteURL": "http://www.geraldjustprojects.com/",
       "email": "Gerald@geraldjustProjects.com",
       "help": {
@@ -15,17 +15,17 @@
         
         
         {
-          "name": "CAN90 IO",
+          "name": "AT90can128",
           "architecture": "avr",
-          "version": "0.0.1",
+          "version": "0.0.2",
           "category": "Contributed",
           "help": {
             "online": "https://github.com/geraldjust/Arduino-Board-Packages"
           },
-          "url": "https://github.com/geraldjust/CAN90_IO/archive/V0.0.1.zip",
-          "archiveFileName": "V0.0.1.zip",
-          "checksum": "SHA-256:23fb2615043baabb2e3d2bd8beb7c672bd0a24ff77dd5eca36eb587c7af2af05",
-          "size": "54609",
+          "url": "https://github.com/geraldjust/CAN90_IO/archive/0.0.2.zip",
+          "archiveFileName": "0.0.2.zip",
+          "checksum": "SHA-256:C8672EB14796A5095EA58818463B0A5B27999151C8DB019A7602A7FFF3995BDA",
+          "size": "2190786",
           "boards": [
             {"name": "CAN90 IO"}
           ],
