@@ -22,10 +22,10 @@
           "help": {
             "online": "https://github.com/geraldjust/Arduino-Board-Packages"
           },
-          "url": "https://github.com/geraldjust/Arduino-Board-Packages/raw/master/CANcore-1.0.zip",
-          "archiveFileName": "CANcore-1.0.zip",
-          "checksum": "SHA-256:65b273184c8a1dbf82e70eb157445b20dd9d6d7eec6d10c9a52b1f090fb7844b",
-          "size": "34805",
+          "url": "https://github.com/geraldjust/Arduino-Board-Packages/raw/master/At90can.zip",
+          "archiveFileName": "At90can.zip",
+          "checksum": "SHA-256:388edb69527faad424fe7a61179b1416c3059a510413d88ac5199e12c8047455",
+          "size": "572679",
           "boards": [
             {"name": "CAN90core"}
           ],
