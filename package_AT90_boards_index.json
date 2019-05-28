@@ -22,8 +22,8 @@
           "help": {
             "online": "https://github.com/geraldjust/Arduino-Board-Packages"
           },
-          "url": "https://github.com/geraldjust/CANcore/archive/V1.0.zip",
-          "archiveFileName": "V1.0.zip",
+          "url": "https://github.com/geraldjust/Arduino-Board-Packages/raw/master/CANcore-1.0.zip",
+          "archiveFileName": "CANcore-1.0.zip",
           "checksum": "SHA-256:076BB3A067CE6A6D6124B3E48CA09DE6BC91236770DA98F91605C395CAFCFA89",
           "size": "34805",
           "boards": [
