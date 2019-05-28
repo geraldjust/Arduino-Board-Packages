@@ -24,7 +24,7 @@
           },
           "url": "https://github.com/geraldjust/Arduino-Board-Packages/raw/master/CANcore-1.0.zip",
           "archiveFileName": "CANcore-1.0.zip",
-          "checksum": "SHA-256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "checksum": "SHA-256:65b273184c8a1dbf82e70eb157445b20dd9d6d7eec6d10c9a52b1f090fb7844b",
           "size": "34805",
           "boards": [
             {"name": "CAN90core"}
